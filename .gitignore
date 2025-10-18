@@ -1,0 +1,33 @@
+/images
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Output files
+output.txt
+*.pdf
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.bak
+*.tmp
